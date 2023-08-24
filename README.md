@@ -25,6 +25,7 @@ Remember that you have a limited number of chances to make correct matches.
 Continue playing until you find all the matching pairs or run out of chances.
 
 Preview:
+
 ![image](https://github.com/MM120-i/Memory-Game/assets/80307451/59ea95c7-0e46-464f-a8e8-c526f6bc2715)
 
 Installation and Usage:

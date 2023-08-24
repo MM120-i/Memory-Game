@@ -1,2 +1,2 @@
 # Memory-Game
-Game made in HTML, CSS, and JavaScript
+A game made in HTML, CSS, and JavaScript
